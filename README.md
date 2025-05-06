@@ -1,3 +1,3 @@
 # Py Screen Recorder
 
-En contrucción
+En construcción.
